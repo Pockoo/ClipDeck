@@ -8,7 +8,7 @@ Windows 剪贴板历史工具，现代简约风格，免费绿色便携。
 
 ## 安装
 
-1. 到 [Releases](https://github.com/Pockoo/ClipDeck/releases) 下载最新版，解压到任意目录。
+1. 到 [Releases](https://github.com/Pockoo/ClipDeck/releases) / [百度网盘](https://pan.baidu.com/s/1vnB_su9N0ukCWRIJ8ccpgg?pwd=6666) 下载最新版，解压到任意目录。
 2. 运行 `ClipDeck.exe`，右下角托盘会出现图标。
 3. 在任意程序里复制东西，按 `` Alt+` `` 呼出列表。
 
@@ -104,7 +104,7 @@ Windows 剪贴板历史工具，现代简约风格，免费绿色便携。
 使用中遇到问题或有想法，欢迎在 [Issues](https://github.com/Pockoo/ClipDeck/issues) 里提。写清楚系统版本、程序版本和复现步骤会更容易定位。
 
 如果觉得好用，可以在程序“设置 → 关于”里请作者喝杯咖啡。
-![程序主界面](Donate.png)
+![打赏](Donate.png)
 
 ## 许可
 
